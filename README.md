@@ -4,6 +4,8 @@ airsens
 
 ## General
 Entwickelt unter (Base Dir): /root/airsens
+### Startup
+login as root:mnZt4ysHv4x7xnqj7FrQ
 
 ## Git
 ### Push
