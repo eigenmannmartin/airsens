@@ -6,7 +6,9 @@ airsens
 Entwickelt unter (Base Dir): /root/airsens
 ### Startup
 login as root:mnZt4ysHv4x7xnqj7FrQ
+
 modprobe i2c-dev
+
 date (check if date is correct)
 
 
