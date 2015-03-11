@@ -1,6 +1,9 @@
 airsens
 =======
 
+This is a Project we started long ago but had not jet time to do something really cool with it. 
+
+We wanted to create a autonomous fixed wing based drone.
 
 ## General
 Entwickelt unter (Base Dir): /root/airsens
